@@ -1,0 +1,25 @@
+{
+  "name": "FrikyBot",
+  "version": "0.0.1",
+  "description": "Chatbot for La_Friky Twitch channel",
+  "main": "frikybot.js",
+  "scripts": {
+    "start": "node frikybot.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "tmi.js": "^1.2.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/frikybot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "twitch",
+    "chatbots",
+    "irc"
+  ]
+}
